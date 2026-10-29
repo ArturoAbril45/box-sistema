@@ -1,0 +1,49 @@
+
+> box-sistema@1.0.0 dev
+> vite
+
+
+  [32m[1mVITE[22m v5.4.21[39m  [2mready in [0m[1m553[22m[2m[0m ms[22m
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://localhost:[1m3000[22m/[39m
+[2m  [32m➜[39m  [1mNetwork[22m[2m: use [22m[1m--host[22m[2m to expose[22m
+[2m11:07:11[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/traspasos/Index.jsx, /src/index.css[22m
+[2m11:07:33[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/traspasos/Index.jsx, /src/index.css[22m
+[2m11:09:34[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/traspasos/Index.jsx, /src/index.css[22m
+[2m11:10:04[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/traspasos/Index.jsx, /src/index.css[22m
+[2m11:10:27[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/traspasos/Index.jsx, /src/index.css[22m
+[2m11:26:45[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/traspasos/Index.jsx, /src/index.css[22m
+[2m11:35:46[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/traspasos/Index.jsx, /src/index.css[22m
+[2m11:42:13[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/traspasos/Index.jsx, /src/index.css[22m
+[2m11:42:27[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/traspasos/Index.jsx, /src/index.css[22m
+[2m11:43:04[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/traspasos/Index.jsx, /src/index.css[22m
+[2m11:43:38[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/traspasos/Index.jsx, /src/index.css[22m
+[2m11:44:06[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/traspasos/Index.jsx, /src/index.css[22m
+[2m11:44:21[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/traspasos/Index.jsx, /src/index.css[22m
+[2m11:48:02[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/traspasos/Index.jsx, /src/index.css[22m
+[2m11:52:52[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/traspasos/Index.jsx, /src/index.css[22m
+[2m11:53:04[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/traspasos/Index.jsx, /src/index.css[22m
+[2m11:53:14[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/traspasos/Index.jsx, /src/index.css[22m
+[2m11:53:30[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/traspasos/Index.jsx, /src/index.css[22m
+[2m11:57:21[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/index.css, /src/context/AuthContext.jsx, /src/components/Layout.jsx, /src/pages/Dashboard.jsx, /src/pages/traspasos/Index.jsx, /src/pages/productos/Index.jsx[22m
+[2m11:57:23[22m [36m[1m[vite][22m[39m [33mhmr invalidate [39m[2m/src/context/AuthContext.jsx[22m Could not Fast Refresh ("PERMISOS" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m11:57:23[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.jsx, /src/index.css, /src/components/RequirePermiso.jsx, /src/pages/Login.jsx, /src/components/Layout.jsx, /src/pages/Dashboard.jsx, /src/pages/productos/Index.jsx[22m
+[2m11:58:17[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/traspasos/Index.jsx, /src/index.css[22m
+[2m11:58:28[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/traspasos/Index.jsx, /src/index.css[22m
+[2m11:58:36[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/traspasos/Index.jsx, /src/index.css[22m
+[2m11:58:51[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/traspasos/Index.jsx, /src/index.css[22m
+[2m11:59:01[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/traspasos/Index.jsx, /src/index.css[22m
+[2m12:01:26[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/index.css, /src/context/AuthContext.jsx, /src/components/Layout.jsx, /src/pages/Dashboard.jsx, /src/pages/traspasos/Index.jsx, /src/pages/productos/Index.jsx[22m
+[2m12:01:28[22m [36m[1m[vite][22m[39m [33mhmr invalidate [39m[2m/src/context/AuthContext.jsx[22m Could not Fast Refresh ("PERMISOS" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m12:01:28[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.jsx, /src/index.css, /src/components/RequirePermiso.jsx, /src/pages/Login.jsx, /src/components/Layout.jsx, /src/pages/Dashboard.jsx, /src/pages/productos/Index.jsx, /src/pages/traspasos/Index.jsx[22m
+[2m12:01:42[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/traspasos/Index.jsx, /src/index.css[22m
+[2m12:01:55[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/traspasos/Index.jsx, /src/index.css[22m
+[2m12:02:20[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/traspasos/Index.jsx, /src/index.css[22m
+[2m12:02:39[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/traspasos/Index.jsx, /src/index.css[22m
+[2m12:19:50[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/traspasos/Index.jsx, /src/index.css[22m
+[2m12:20:15[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/traspasos/Index.jsx, /src/index.css[22m
+[2m12:20:26[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/traspasos/Index.jsx, /src/index.css[22m
+[2m12:20:34[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/traspasos/Index.jsx, /src/index.css[22m
+[2m12:25:43[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/traspasos/Index.jsx, /src/index.css[22m
+[2m12:25:54[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/traspasos/Index.jsx, /src/index.css[22m
+[2m12:26:05[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/traspasos/Index.jsx, /src/index.css[22m
